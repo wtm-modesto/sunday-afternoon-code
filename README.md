@@ -1,1 +1,1 @@
-# sunday-afternoon-code
+# Space for our tensoflowJS projects
