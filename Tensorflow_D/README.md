@@ -30,4 +30,13 @@ https://www.linkedin.com/learning/learning-tensorflow-with-javascript/
     4. Model Introduction
     5. Layers Introduction
  3. Exploration of a Full Project
+    1. Import example project
+    2. Exploration of full project
+    3. Exploration of the dataset
+    4. Exploration of training the model
+    5. See the live example
  4. Advanced Subjects
+    1. Use Python-based models in JS
+    2. Convert SavedModel to web
+5. Conclusion
+    1. Next steps
